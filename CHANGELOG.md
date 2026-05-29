@@ -1,3 +1,10 @@
+# [1.92.0](https://github.com/anurag3407/career-pilot/compare/v1.91.1...v1.92.0) (2026-05-29)
+
+
+### Features
+
+* add Project Visualizer dashboard and landing page with state management ([c11af06](https://github.com/anurag3407/career-pilot/commit/c11af0694e3d46e94130ed8a06c94edabce2c95d))
+
 ## [1.91.1](https://github.com/anurag3407/career-pilot/compare/v1.91.0...v1.91.1) (2026-05-29)
 
 
