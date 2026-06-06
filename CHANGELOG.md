@@ -1,3 +1,12 @@
+# [1.175.0](https://github.com/anurag3407/career-pilot/compare/v1.174.0...v1.175.0) (2026-06-06)
+
+
+### Features
+
+* add AI resume score breakdown dashboard ([0446570](https://github.com/anurag3407/career-pilot/commit/0446570b566ea1a6620e596dacf57bc96a7c36ff))
+* add real-time ATS keyword optimization assistant ([a364fca](https://github.com/anurag3407/career-pilot/commit/a364fca35a9bb3a469ada9a53c73aca6dd15fe89))
+* add resume version history and restore system ([8fb5bf4](https://github.com/anurag3407/career-pilot/commit/8fb5bf43df4c26e180e1ca799cff577c16b03514))
+
 # [1.174.0](https://github.com/anurag3407/career-pilot/compare/v1.173.0...v1.174.0) (2026-06-06)
 
 
