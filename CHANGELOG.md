@@ -1,3 +1,10 @@
+# [1.170.0](https://github.com/anurag3407/career-pilot/compare/v1.169.0...v1.170.0) (2026-06-06)
+
+
+### Features
+
+* **security:** add API key rotation service with pool management and auto-rotation ([fff83ca](https://github.com/anurag3407/career-pilot/commit/fff83ca1c31d2c470109560d8cc8a6423dcccb2f)), closes [#2761](https://github.com/anurag3407/career-pilot/issues/2761)
+
 # [1.169.0](https://github.com/anurag3407/career-pilot/compare/v1.168.0...v1.169.0) (2026-06-06)
 
 
